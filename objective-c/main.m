@@ -3,7 +3,7 @@
 //  objective-c
 //
 //  Created by songzhou on 2018/5/5.
-//  Copyright © 2018/5/5 songzhou. All rights reserved.
+//  Copyright © 2018 songzhou. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
